@@ -18,6 +18,7 @@ public class SipAgent extends Application {
 			primaryStage.setScene(scene);
 			primaryStage.show();
 			primaryStage.setTitle("Sip Agent");
+
 		} catch(Exception e) {
 			e.printStackTrace();
 			
